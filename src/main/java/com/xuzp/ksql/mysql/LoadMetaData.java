@@ -282,7 +282,7 @@ public class LoadMetaData {
 
             System.out.println("1列在数据库中类型的最大字符个数" + rsmd.getColumnDisplaySize(1));
 
-            System.out.println(" 1列的默认的列的标题" + rsmd.getColumnLabel(1));
+            System.out.println("1列的默认的列的标题" + rsmd.getColumnLabel(1));
 
             //System.out.println("1列的模式" + rsmd.GetSchemaName(1));
 
